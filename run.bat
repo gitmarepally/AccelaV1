@@ -1,0 +1,1 @@
+Pytest -s -v -m .\testCases\ -m "sanity"

@@ -1,0 +1,8 @@
+pytest == 8.4.2
+Python_Package
+selenium
+webdriver-manager
+pytest-html
+pytest-xdist
+openpyxl
+allure-pytest
